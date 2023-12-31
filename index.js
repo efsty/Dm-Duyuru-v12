@@ -157,4 +157,4 @@ client.on("message", async message => {
   }
 });
 
-client.login(`bottokengir`);
+client.login(`MTA2NTE0NjAxNjM3MTgzOTA5OA.G8Gfh7.QTSXuEUX6B1PGKjq76W5eO-mefUH1dNtBuV2GA`);
